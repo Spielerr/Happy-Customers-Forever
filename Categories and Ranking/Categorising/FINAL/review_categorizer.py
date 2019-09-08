@@ -47,7 +47,7 @@ def review_categorizer(filename):
 
     natural_language_understanding = NaturalLanguageUnderstandingV1(
         version='2018-11-16',
-        iam_apikey='LOqcUDy1uNJZZLdvbrXwY5pKfRebfECrI0NtHKy2o-Hq',
+        iam_apikey='<enter your api key>',
         url='https://gateway-lon.watsonplatform.net/natural-language-understanding/api')
 
     df = pd.read_csv(filename, delimiter="|", encoding="ISO-8859-1")

@@ -35,7 +35,7 @@ decorator==4.4.0
 defer==1.0.6
 defusedxml==0.6.0
 dj-database-url==0.5.0
-Django==2.2.3
+Django==2.2.8
 django-heroku==0.3.1
 dlib==19.17.99
 docutils==0.14

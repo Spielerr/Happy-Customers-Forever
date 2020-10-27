@@ -27,7 +27,7 @@ command-not-found==0.3
 constantly==15.1.0
 contractions==0.0.18
 corenlp==0.0.14
-cryptography==2.1.4
+cryptography==3.2
 cssselect==1.0.3
 cycler==0.10.0
 cymem==2.0.2
